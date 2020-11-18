@@ -2,7 +2,8 @@
 
 ## Sou entusiasta de programação e atualmente estou estudando JS ES6, Vue.js, Laravel e Tailwind
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPavezzi&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPavezzi&show_icons=true&theme=dark)
 
 # :computer: Competências
 - Elixir
