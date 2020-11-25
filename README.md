@@ -4,10 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPavezzi&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPavezzi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArthurPavezzi&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # :computer: Competências
 - Elixir
-- JavaScript ES6
+- JavaScript
 - MySQL
 - PHP
 - Python
